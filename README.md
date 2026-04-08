@@ -7,6 +7,7 @@ a. Some highlighted features that I will use when I work with SQL:
 SELECT, SELECT TOP, FROM, WHERE, ORDER BY, GROUP BY
 AGGREGATION FUNCTION: MIN(), MAX(), SUM(), ROUND()
 CREATE TABLE, INSERT INTO, WITH AS, INNER JOIN
+
 b. Some highlighted features that I will use when I work with PowerBI:
 Area chart, Donut chart, Multi-row card, Clustered column chart
 Dynamic text utilizing Smart Narrative, Slicer
